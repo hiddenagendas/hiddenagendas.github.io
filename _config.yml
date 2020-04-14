@@ -24,7 +24,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : 
+    shortname            : "hiddenagendas"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -71,7 +71,7 @@ author:
   bio              : "Five old friends try to have a standard conversation about anything they find amusing, whilst subtly trying to get their co-hosts to mention a different secret topic each episode"
   location         : "Australia"
   employer         :
-  email            : "hiddenagendaspod@gmail.com
+  email            : "hiddenagendaspod@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
