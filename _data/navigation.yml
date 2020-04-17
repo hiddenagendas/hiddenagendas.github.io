@@ -1,20 +1,11 @@
 # main links links
 main:
-<<<<<<< HEAD
   - title: "Episodes"
     url: /episodes/
-=======
-  - title: "Podcasts"
-    url: /podcasts/
-    
-  - title: "Publications"
-    url: /publications/
->>>>>>> e9d10797cebc3e7543f313cb6a1d56c24a8bf1f1
 
 #  - title: "Publications"
 #    url: /publications/
 
-<<<<<<< HEAD
 #  - title: "Talks"
 #    url: /talks/
 
@@ -26,13 +17,3 @@ main:
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
-=======
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
->>>>>>> e9d10797cebc3e7543f313cb6a1d56c24a8bf1f1
