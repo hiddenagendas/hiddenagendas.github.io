@@ -1,6 +1,6 @@
 ---
 title: "Episode 001 - Bing Anger!"
-last_modified_at: 2020-04-14
+date: 2020-04-14
 permalink: /2020/001/Bing-Anger
 tags:
   - Google
