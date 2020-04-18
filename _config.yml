@@ -72,7 +72,7 @@ author:
   location         : "Australia"
   employer         :
   email            : "hiddenagendaspod@gmail.com"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -169,7 +169,7 @@ collections:
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
-  podcasts:
+  episodes:
     output: true
     permalink: /:collection/:path/
 

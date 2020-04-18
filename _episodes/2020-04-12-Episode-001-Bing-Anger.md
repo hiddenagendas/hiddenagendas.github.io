@@ -15,6 +15,8 @@ tags:
   - "Hot Cross Buns"
 
 ---
+
+
 The guys chat about the merits of Bing, Google and Amazon, and how exercise for obstacle course based endurance events is somewhat overrated
 
     <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/347a8f5f-f596-4a5c-b7fd-e63dd87d848e/ep/379b8c59-5ec4-4ba1-b4e7-629e2f4b7321">
